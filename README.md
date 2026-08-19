@@ -24,7 +24,7 @@ This project replaces the game's original UI texture with a darker version desig
 
 ## Download
 
-**[Download Dark Mode UI](./Download/PreIn_tex-resources.assets-91)**
+**[Download Umamusume Dark Mode UI v1.0](../../releases/latest)**
 
 ## Installation
 
