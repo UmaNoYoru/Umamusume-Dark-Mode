@@ -88,7 +88,7 @@ With `PreIn_tex` selected, go to:
 
 **Plugins → Edit Texture2D → Load Texture...**
 
-Select the Dark Mode texture downloaded from this repository.
+Download the latest Dark Mode UI file from the Releases page.
 
 Click **Save** in the texture editor.
 
