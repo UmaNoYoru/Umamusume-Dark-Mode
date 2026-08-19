@@ -124,6 +124,6 @@ The texture has been darkened as much as possible while keeping the UI readable.
 
 ## Credits
 
-Dark Mode UI created by **[UmaNoYoru]**.
+Dark Mode UI created by [UmaNoYoru](https://github.com/UmaNoYoru).
 
 UABEA created by [nesrak1](https://github.com/nesrak1).
