@@ -24,7 +24,7 @@ This project replaces the game's original UI texture with a darker version desig
 
 ## Download
 
-You can find the latest version in the **[Download](./Download/)** folder.
+**[Download Dark Mode UI](./Download/PreIn_tex-resources.assets-91)**
 
 ## Installation
 
