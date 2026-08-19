@@ -6,9 +6,21 @@ This project replaces the game's original UI texture with a darker version desig
 
 ## Preview
 
-![Dark Mode UI](https://github.com/)
+### Main Menu
 
-*More screenshots coming soon.*
+![Main Menu](./Screenshots/01_Menu.png)
+
+### Umamusume Details
+
+![Umamusume Details](./Screenshots/02_Umamusume_Details.png)
+
+### Career & Agenda
+
+![Career & Agenda](./Screenshots/03_Career_Agenda.png)
+
+### Career & Log
+
+![Career & Log](./Screenshots/04_Career_Log.png)
 
 ## Download
 
